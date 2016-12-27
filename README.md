@@ -5,3 +5,4 @@
 > Database คือ MySQL<br><br>
 
 <h3>SQL file สำหรับ import คือ sql_file.sql</h3>
+<p>ข้อมูล config database คือ configdb.php</p>
