@@ -6,3 +6,5 @@
 
 <h3>SQL file สำหรับ import คือ sql_file.sql</h3>
 <p>ข้อมูล config database คือ configdb.php</p>
+<p>ชื่อ schema คือ t-shirt</p>
+
